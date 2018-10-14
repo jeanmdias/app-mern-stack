@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb://localhost/udemy-mern-app'
+    mongoURI: 'mongodb://localhost/udemy-mern-app',
+    secretOrKey: 'secret'
 };
